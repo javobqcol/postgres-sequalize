@@ -1,0 +1,6 @@
+# ignore node_moules
+node_modules
+#ignorar .env
+.env
+# ignorar .dist
+.dist
